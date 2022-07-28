@@ -23,3 +23,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+            ![Snake animation](https://github.com/pauloVarelo/pauloVarelo/blob/output/github-contribution-grid-snake.svg)
+
